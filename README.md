@@ -3,7 +3,7 @@
 ## Overview
 This project is a hands-on lab for getting comfortable with the core Terraform workflow. Provider configuration, resource definitions, state management, and plan/apply/destroy — using Azure.
 
-## What's Deployed
+## What is Deployed
 An Azure resource group, and virtual network are the focal point for the deployment.
 
 ## Prerequisites
