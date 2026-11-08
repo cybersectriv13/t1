@@ -1,4 +1,4 @@
-# Learning / integrating IaaC.
+# Learning / integrating IaC.
 
 ## Overview
 This project is a hands-on lab for getting comfortable with the core Terraform workflow. Provider configuration, resource definitions, state management, and plan/apply/destroy — using Azure.
